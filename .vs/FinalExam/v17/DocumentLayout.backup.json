@@ -1,0 +1,942 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\services\\implementations\\ourserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\services\\implementations\\ourserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BE1EF5-C02F-4FA8-BF60-4E8EFE873315}|CORE\\CORE.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\core\\models\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BE1EF5-C02F-4FA8-BF60-4E8EFE873315}|CORE\\CORE.csproj|solutionrelative:core\\models\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\profiles\\serviceprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\profiles\\serviceprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|solutionrelative:data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BE1EF5-C02F-4FA8-BF60-4E8EFE873315}|CORE\\CORE.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\core\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BE1EF5-C02F-4FA8-BF60-4E8EFE873315}|CORE\\CORE.csproj|solutionrelative:core\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BE1EF5-C02F-4FA8-BF60-4E8EFE873315}|CORE\\CORE.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\core\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BE1EF5-C02F-4FA8-BF60-4E8EFE873315}|CORE\\CORE.csproj|solutionrelative:core\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\views\\service\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\service\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\dtos\\servicedtos\\servicepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\dtos\\servicedtos\\servicepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\dtos\\memberdtos\\membergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\dtos\\memberdtos\\membergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\dtos\\memberdtos\\memberpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\dtos\\memberdtos\\memberpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\dtos\\memberdtos\\memberputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\dtos\\memberdtos\\memberputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Migrations\\20250123141926_....cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\Migrations\\20250123141926_....cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\services\\implementations\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\services\\implementations\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\services\\abstractions\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\services\\abstractions\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BE1EF5-C02F-4FA8-BF60-4E8EFE873315}|CORE\\CORE.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BE1EF5-C02F-4FA8-BF60-4E8EFE873315}|CORE\\CORE.csproj|solutionrelative:core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\filemanager\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\filemanager\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\services\\abstractions\\iourseviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\services\\abstractions\\iourseviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\data\\repositories\\concretes\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|solutionrelative:data\\repositories\\concretes\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\data\\repositories\\concretes\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|solutionrelative:data\\repositories\\concretes\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\data\\repositories\\abstractions\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|solutionrelative:data\\repositories\\abstractions\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\data\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|solutionrelative:data\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\profiles\\memberprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\profiles\\memberprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\data\\repositories\\abstractions\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|solutionrelative:data\\repositories\\abstractions\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\dtos\\servicedtos\\serviceputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\dtos\\servicedtos\\serviceputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\data\\migrations\\20250123114408_initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|solutionrelative:data\\migrations\\20250123114408_initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\bl\\dtos\\servicedtos\\servicegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0C9018-4422-41F9-850B-BABA9E3D72FE}|BL\\BL.csproj|solutionrelative:bl\\dtos\\servicedtos\\servicegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\data\\migrations\\20250123105019_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|solutionrelative:data\\migrations\\20250123105019_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BA81C4C-AC5F-4244-8522-2C39B18833ED}|PL\\PL.csproj|solutionrelative:pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|c:\\users\\i novbe\\source\\repos\\finalexam\\data\\migrations\\20250123105645_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1764FCA8-B73D-49F7-949F-BA5A534DA0E0}|DATA\\DATA.csproj|solutionrelative:data\\migrations\\20250123105645_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\CORE\\Models\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "CORE\\Models\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\CORE\\Models\\RoleEnum.cs*",
+              "RelativeToolTip": "CORE\\Models\\RoleEnum.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:37:57.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Services\\Implementations\\AccountService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Implementations\\AccountService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Services\\Implementations\\AccountService.cs*",
+              "RelativeToolTip": "BL\\Services\\Implementations\\AccountService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:35:48.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Controllers\\ServiceController.cs*",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\ServiceController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:02:22.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:59:15.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\UserDTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\UserDTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\UserDTOs\\LoginDTO.cs*",
+              "RelativeToolTip": "BL\\DTOs\\UserDTOs\\LoginDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:54:39.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\UserDTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\UserDTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\UserDTOs\\RegisterDTO.cs*",
+              "RelativeToolTip": "BL\\DTOs\\UserDTOs\\RegisterDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:54:52.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\CORE\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "CORE\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\CORE\\Models\\Member.cs",
+              "RelativeToolTip": "CORE\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:33:55.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DATA\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Contexts\\AppDbContext.cs*",
+              "RelativeToolTip": "DATA\\Contexts\\AppDbContext.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:38:31.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:59:30.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OurServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Services\\Implementations\\OurServiceService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Implementations\\OurServiceService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Services\\Implementations\\OurServiceService.cs",
+              "RelativeToolTip": "BL\\Services\\Implementations\\OurServiceService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:32:02.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Member\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T12:00:43.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Profiles\\ServiceProfiles.cs",
+              "RelativeDocumentMoniker": "BL\\Profiles\\ServiceProfiles.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Profiles\\ServiceProfiles.cs",
+              "RelativeToolTip": "BL\\Profiles\\ServiceProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:09:18.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T14:10:42.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T14:24:08.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:22:34.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T14:24:26.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\CORE\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "CORE\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\CORE\\Models\\Service.cs",
+              "RelativeToolTip": "CORE\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:34:57.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Service\\Update.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Service\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Service\\Update.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Service\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T14:24:41.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Member\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Member\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T12:00:28.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServicePostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\ServiceDTOs\\ServicePostDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\ServiceDTOs\\ServicePostDTO.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\ServiceDTOs\\ServicePostDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\ServiceDTOs\\ServicePostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:54:28.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MemberGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\MemberDTOs\\MemberGetDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\MemberDTOs\\MemberGetDTO.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\MemberDTOs\\MemberGetDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\MemberDTOs\\MemberGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:21:33.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MemberPostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\MemberDTOs\\MemberPostDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\MemberDTOs\\MemberPostDTO.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\MemberDTOs\\MemberPostDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\MemberDTOs\\MemberPostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:53:26.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250123141926_....cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Migrations\\20250123141926_....cs",
+              "RelativeDocumentMoniker": "DATA\\Migrations\\20250123141926_....cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Migrations\\20250123141926_....cs",
+              "RelativeToolTip": "DATA\\Migrations\\20250123141926_....cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:19:26.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:59:38.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MemberPutDTO.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\MemberDTOs\\MemberPutDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\MemberDTOs\\MemberPutDTO.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\MemberDTOs\\MemberPutDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\MemberDTOs\\MemberPutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:53:13.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:22:15.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwFAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T12:00:09.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:22:07.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Services\\Implementations\\MemberService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Implementations\\MemberService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Services\\Implementations\\MemberService.cs",
+              "RelativeToolTip": "BL\\Services\\Implementations\\MemberService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:10:05.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Services\\Abstractions\\IMemberService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Abstractions\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Services\\Abstractions\\IMemberService.cs",
+              "RelativeToolTip": "BL\\Services\\Abstractions\\IMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:30:52.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\CORE\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CORE\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\CORE\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "CORE\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:35:07.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PL\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:20:09.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAH8CAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:20:17.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:22:57.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\FileManager\\FileUpload.cs",
+              "RelativeDocumentMoniker": "BL\\FileManager\\FileUpload.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\FileManager\\FileUpload.cs",
+              "RelativeToolTip": "BL\\FileManager\\FileUpload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:55:03.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:22:43.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IOurSeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Services\\Abstractions\\IOurSeviceService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Abstractions\\IOurSeviceService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Services\\Abstractions\\IOurSeviceService.cs",
+              "RelativeToolTip": "BL\\Services\\Abstractions\\IOurSeviceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:31:14.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Program.cs",
+              "RelativeDocumentMoniker": "PL\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Program.cs",
+              "RelativeToolTip": "PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:21:26.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\appsettings.json",
+              "RelativeDocumentMoniker": "PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\appsettings.json",
+              "RelativeToolTip": "PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T10:21:25.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:20:35.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:21:20.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:20:59.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Repositories\\Concretes\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "DATA\\Repositories\\Concretes\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Repositories\\Concretes\\MemberRepository.cs",
+              "RelativeToolTip": "DATA\\Repositories\\Concretes\\MemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:43:03.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Repositories\\Concretes\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "DATA\\Repositories\\Concretes\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Repositories\\Concretes\\ServiceRepository.cs",
+              "RelativeToolTip": "DATA\\Repositories\\Concretes\\ServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:42:54.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Repositories\\Abstractions\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "DATA\\Repositories\\Abstractions\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Repositories\\Abstractions\\IMemberRepository.cs",
+              "RelativeToolTip": "DATA\\Repositories\\Abstractions\\IMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:42:28.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Repositories\\Concretes\\Repository.cs",
+              "RelativeDocumentMoniker": "DATA\\Repositories\\Concretes\\Repository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Repositories\\Concretes\\Repository.cs",
+              "RelativeToolTip": "DATA\\Repositories\\Concretes\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:13:15.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MemberProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Profiles\\MemberProfiles.cs",
+              "RelativeDocumentMoniker": "BL\\Profiles\\MemberProfiles.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\Profiles\\MemberProfiles.cs",
+              "RelativeToolTip": "BL\\Profiles\\MemberProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:09:06.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Repositories\\Abstractions\\IServiceRepository.cs",
+              "RelativeDocumentMoniker": "DATA\\Repositories\\Abstractions\\IServiceRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Repositories\\Abstractions\\IServiceRepository.cs",
+              "RelativeToolTip": "DATA\\Repositories\\Abstractions\\IServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:42:42.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ServicePutDTO.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\ServiceDTOs\\ServicePutDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\ServiceDTOs\\ServicePutDTO.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\ServiceDTOs\\ServicePutDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\ServiceDTOs\\ServicePutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:53:57.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250123114408_Initial3.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Migrations\\20250123114408_Initial3.cs",
+              "RelativeDocumentMoniker": "DATA\\Migrations\\20250123114408_Initial3.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Migrations\\20250123114408_Initial3.cs",
+              "RelativeToolTip": "DATA\\Migrations\\20250123114408_Initial3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:44:08.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ServiceGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\ServiceDTOs\\ServiceGetDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\ServiceDTOs\\ServiceGetDTO.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\BL\\DTOs\\ServiceDTOs\\ServiceGetDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\ServiceDTOs\\ServiceGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:53:44.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250123105645_Initial2.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Migrations\\20250123105645_Initial2.cs",
+              "RelativeDocumentMoniker": "DATA\\Migrations\\20250123105645_Initial2.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Migrations\\20250123105645_Initial2.cs",
+              "RelativeToolTip": "DATA\\Migrations\\20250123105645_Initial2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:56:45.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250123105019_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Migrations\\20250123105019_Initial.cs",
+              "RelativeDocumentMoniker": "DATA\\Migrations\\20250123105019_Initial.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\DATA\\Migrations\\20250123105019_Initial.cs",
+              "RelativeToolTip": "DATA\\Migrations\\20250123105019_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:50:20.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PL.csproj",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\PL.csproj",
+              "RelativeDocumentMoniker": "PL\\PL.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\PL.csproj",
+              "RelativeToolTip": "PL\\PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T10:18:48.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
