@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kgcogXYnQL8+wqLAAFQEQjStsN6dKLiJOoILt59Jb0Y=",
+  "Hash": "BnoTRK93i+3IAXUIIVZqKVeaGTspnifKwMgFWtew9fw=",
   "Source": "PL",
   "BasePath": "_content/PL",
   "Mode": "Default",
@@ -35583,6 +35583,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\members\\54b30e0d-51c9-40fc-a77b-23c75dee547cDefault.png"
+    },
+    {
+      "Identity": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\wwwroot\\images\\members\\5dda1a99-c3df-43ae-bc8c-173e2d510731Default.png",
+      "SourceId": "PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\wwwroot\\",
+      "BasePath": "_content/PL",
+      "RelativePath": "images/members/5dda1a99-c3df-43ae-bc8c-173e2d510731Default.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\members\\5dda1a99-c3df-43ae-bc8c-173e2d510731Default.png"
     },
     {
       "Identity": "C:\\Users\\I Novbe\\source\\repos\\FinalExam\\PL\\wwwroot\\images\\members\\b53deb81-875e-4b3f-9301-a88081a9c761Default.png",

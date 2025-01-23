@@ -1,5 +1,5 @@
 ﻿
-
+@model RegisterDTO
 <!DOCTYPE html>
 <html lang="en">
 
@@ -34,16 +34,16 @@
                         </div>
                         <form class="user" method="POST">
                             <div class="form-group">
-                                <input class="form-control form-control-user" />
+                                <input class="form-control form-control-user" asp-for="UserName"/>
                                 <span class="text-danger"></span>
                             </div>
                             <div class="form-group">
-                                <input class="form-control form-control-user" />
+                                <input class="form-control form-control-user" asp-for="Password" />
                                 <span class="text-danger"></span>
                             </div>
                             <div class="form-group row">
                                 <div class="col-sm-6 mb-3 mb-sm-0">
-                                    <input class="form-control form-control-user">
+                                    <input class="form-control form-control-user"/>
                                     <span class="text-danger"></span>
                                 </div>
                                 <div class="col-sm-6">

@@ -2,12 +2,14 @@
 using BL.DTOs.MemberDTOs;
 using BL.DTOs.ServiceDTOs;
 using BL.Services.Abstractions;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace PL.Areas.Admin.Controllers
 {
 	[Area("Admin")]
-	public class ServiceController : Controller
+    [Authorize(Roles = "Admin")]
+    public class ServiceController : Controller
 	{
         readonly IOurSeviceService _service;
         readonly IMapper _mapper;

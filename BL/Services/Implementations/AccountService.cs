@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using BL.DTOs.UserDTOs;
+using BL.Services.Abstractions;
 using CORE.Models;
 using Microsoft.AspNetCore.Identity;
 using System;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace BL.Services.Implementations
 {
-     public  class AccountService:IAccou
+     public  class AccountService:IAccountService
     {
         private readonly UserManager<IdentityUser> _userManager;
         private readonly SignInManager<IdentityUser> _signInManager;

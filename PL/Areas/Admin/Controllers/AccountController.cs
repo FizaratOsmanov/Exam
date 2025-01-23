@@ -1,5 +1,7 @@
 ﻿using BL.DTOs.UserDTOs;
+using BL.Services.Abstractions;
 using CORE.Models;
+using Humanizer;
 using Microsoft.AspNetCore.Mvc;
 
 namespace PL.Areas.Admin.Controllers
@@ -43,12 +45,6 @@ namespace PL.Areas.Admin.Controllers
 
             return Redirect(returnUrl ?? (User.IsInRole(RoleEnum.Admin.ToString()) ? "/admin" : "/"));
         }
-
-
-
-
-
-
         public IActionResult Register()
         {
             if (User.Identity is not null && User.Identity.IsAuthenticated)
@@ -70,11 +66,6 @@ namespace PL.Areas.Admin.Controllers
             {
                 await _service.RegisterAsync(dto);
             }
-            catch (BaseException ex)
-            {
-                ModelState.AddModelError("Error", ex.Message);
-                return View(dto);
-            }
             catch
             {
                 ModelState.AddModelError("Error", "Error");
@@ -91,9 +82,11 @@ namespace PL.Areas.Admin.Controllers
                 await _service.LogoutAsync();
                 return Redirect("/");
             }
-            catch (BaseException ex)
+            catch (Exception)
             {
-                return BadRequest();
+                ModelState.AddModelError("Error", "Error");
+                return View();
             }
         }
     }
+}
